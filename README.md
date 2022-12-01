@@ -1,4 +1,4 @@
-<h1>node.js-dev-template</h1>
+<h1>project-template.js</h1>
 
 ## What is project-template.js?
 It is template for creating web applications with Javacript.
