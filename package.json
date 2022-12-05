@@ -6,6 +6,7 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "webpack-dev-server --config webpack.dev.js",
+    "prod": "webpack-dev-server --config webpack.prod.js",
     "explorer": "servez -p 8080 --ssl --hidden --no-index",
     "build": "cdir build && webpack build --config webpack.prod.js",
     "lint": "eslint src --ext js",
